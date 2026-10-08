@@ -1,0 +1,4 @@
+Algorithm,Clusters,Silhouette,Davies_Bouldin,Noise_Points
+K-Means,6,0.1137,1.9305,0
+Agglomerative,6,0.0413,2.2826,0
+DBSCAN,41,0.0628,1.3698,2213
